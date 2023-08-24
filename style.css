@@ -1,0 +1,46 @@
+/* styles.css */
+body {
+   font-family: Arial, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #f4f4f4;
+   font-size: larger;
+
+}
+
+header {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 2%;
+}
+
+nav ul {
+   list-style: none;
+   padding: 0;
+}
+
+nav li {
+   display: inline;
+   margin-right: 20px;
+}
+
+main {
+   padding: 35%;
+}
+
+footer {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 1%;
+}
+
+.cabecalho-imagem{
+   width: 80%;
+   text-align: center;
+   padding: 0%;
+
+
+
+}
